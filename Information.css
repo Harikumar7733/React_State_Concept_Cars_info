@@ -1,0 +1,36 @@
+#container{
+    width:1200px;
+    box-shadow: 0 0 10px black;
+    
+    margin: 5px auto;
+    height:650px;
+    display: flex;
+}
+.left{
+    /* background-color: brown; */
+    width:30%;
+    padding:150px 20px 150px 20px;
+    border: 2px solid black;
+}
+.right{
+    padding:50px;
+    width:70%;
+    border: 2px solid black;
+}
+.btn{
+    margin:40px;
+}
+.btn-1{
+    margin-left:30px;
+    padding: 10px 15px;
+    background-color: cornflowerblue;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+    font-size: 15px;
+    cursor: pointer;
+}
+.list{
+    margin-bottom: 20px;
+}
